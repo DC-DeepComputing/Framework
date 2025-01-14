@@ -13,3 +13,4 @@ Fedora system installation guide
 https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Fedora%2041%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf
 
 Ubuntu24.04 kernel replacement guide
+https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/How%20to%20Replace%20the%20Kernel%20with%20DC-Linux%20on%20DC-ROMA%20RISC-V%20Mainboard%20for%20Framework%20Laptop%2013.pdf

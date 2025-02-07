@@ -18,3 +18,5 @@ https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Fedora%2041%20I
 Ubuntu24.04 Kernel Replacement Guide
 https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/How%20to%20Replace%20the%20Kernel%20with%20DC-Linux%20on%20DC-ROMA%20RISC-V%20Mainboard%20for%20Framework%20Laptop%2013.pdf
 
+DC-ROMA RISC-V Mainboard Replacement Guide
+https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Compatibility%20List%20.pdf

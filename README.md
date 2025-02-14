@@ -10,8 +10,8 @@ Some Technical Documents
 - Framework Laptop Serial Port Connection Guide
 - Ubuntu System Installation Guide
 - Fedora System Installation Guide
-- How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13
 - DC-ROMA RISC-V Mainboard Replacement Guide
+- How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13
 
 ## FML13V01/AppsForDeveloper/Ubuntu/README.md
 Some applications apt-get install notes for ubuntu

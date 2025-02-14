@@ -6,7 +6,7 @@ https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.0
 
 ## FML13V01
 Some Technical Documents 
-- Tutorial on Replacing the DC-ROMA RISC-V Mainboard on framework
+- DC-ROMA RISC-V Mainboard Interface Compatibility List
 - Framework Laptop Serial Port Connection Guide:
 - Ubuntu System Installation Guide
 - Fedora System Installation Guide

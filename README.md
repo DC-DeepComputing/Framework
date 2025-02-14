@@ -20,3 +20,6 @@ https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/How%20to%20Repl
 
 DC-ROMA RISC-V Mainboard Replacement Guide
 https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Compatibility%20List%20.pdf
+
+DC-ROMA RISC-V Mainboard Interface Compatibility List:
+https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Compatibility%20List%20.pdf

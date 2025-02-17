@@ -1,8 +1,8 @@
 # Framework RISC-V Mainboard 
 
 ## Release notes
-FML13V01 release notes link:
-https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.0
+The latest FML13V01 release notes link:
+https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1
 
 ## FML13V01
 Some Technical Documents 

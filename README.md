@@ -6,11 +6,12 @@ https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1
 
 ## FML13V01
 Some Technical Documents 
-- DC-ROMA RISC-V Mainboard Interface Compatibility List
 - Framework Laptop Serial Port Connection Guide
 - Ubuntu System Installation Guide
 - Fedora System Installation Guide
 - DC-ROMA RISC-V Mainboard Replacement Guide
+- DC-ROMA RISC-V Mainboard Interface Overview
+- DC-ROMA RISC-V Mainboard Interface Compatibility List
 - How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13
 - DC-ROMA RISC-V Mainboard (Early Access Edition) for Framework Laptop 13 EC Firmware Flashing Instructions
 

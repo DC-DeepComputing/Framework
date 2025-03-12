@@ -26,3 +26,8 @@ sudo apt-get install chromium
 sudo apt update
 sudo apt-get install libreoffice
 ```
+- MPV
+```bash
+sudo apt-get update
+sudo apt-get install mpv
+```

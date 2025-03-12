@@ -20,3 +20,4 @@ Some applications apt-get install notes for ubuntu
 - Firefox
 - Chromium
 - LibreOffice
+- MPV

@@ -12,6 +12,7 @@ Some Technical Documents
 - DC-ROMA RISC-V Mainboard Replacement Guide
 - DC-ROMA RISC-V Mainboard Interface Overview
 - DC-ROMA RISC-V Mainboard Interface Compatibility List
+- Framework Laptop 13 Troubleshooting Procedure Guide
 - How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13
 - DC-ROMA RISC-V Mainboard (Early Access Edition) for Framework Laptop 13 EC Firmware Flashing Instructions
 

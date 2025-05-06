@@ -13,6 +13,7 @@ Some Technical Documents
 - DC-ROMA RISC-V Mainboard Interface Overview
 - DC-ROMA RISC-V Mainboard Interface Compatibility List
 - Cooler Master Mainboard Case Quick Start Guide
+- Cooler Master Troubleshooting Guide
 - Framework Laptop 13 Troubleshooting Procedure Guide
 - Debug Expansion Card (UART_EC-S_USB-C) Product Manual
 - How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13

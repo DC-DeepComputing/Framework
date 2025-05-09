@@ -16,7 +16,7 @@ Some Technical Documents: Click filenames to navigate to their locations.
 - [Ubuntu System Installation Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)
 - [Fedora System Installation Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Fedora%2041%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)
 - [Framework Laptop Serial Port Connection Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Framework%20Serial%20Port%20Connection%20Guide.pdf)
-- [DC-ROMA RISC-V Mainboard Replacement Guide]()
+- [DC-ROMA RISC-V Mainboard Replacement Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Replacement%20Guide.pdf)
 - [DC-ROMA RISC-V Mainboard Interface Overview](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Overview.pdf)
 - [DC-ROMA RISC-V Mainboard Interface Compatibility List](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Compatibility%20List%20.pdf)
 - [Cooler Master Mainboard Case Quick Start Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Cooler%20Master%20Mainboard%20Case%20Quick%20Start%20Guide.pdf)

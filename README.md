@@ -13,9 +13,9 @@ This repository mainly contains technical documentation and manuals for the Fram
 Coming Soon！！！
 ## [FML13V01](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V01) 
 Some Technical Documents: Click filenames to navigate to their locations.
-- [Framework Laptop Serial Port Connection Guide](DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)
 - [Ubuntu System Installation Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)
 - [Fedora System Installation Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Fedora%2041%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)
+- [Framework Laptop Serial Port Connection Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Framework%20Serial%20Port%20Connection%20Guide.pdf)
 - [DC-ROMA RISC-V Mainboard Replacement Guide]()
 - [DC-ROMA RISC-V Mainboard Interface Overview](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Overview.pdf)
 - [DC-ROMA RISC-V Mainboard Interface Compatibility List](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Compatibility%20List%20.pdf)

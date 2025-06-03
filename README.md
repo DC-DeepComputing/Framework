@@ -21,6 +21,7 @@ Some Technical Documents: Click filenames to navigate to their locations.
 - [DC-ROMA RISC-V Mainboard Interface Compatibility List](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/DC-ROMA%20RISC-V%20Mainboard%20Interface%20Compatibility%20List%20.pdf)
 - [Cooler Master Mainboard Case Quick Start Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Cooler%20Master%20Mainboard%20Case%20Quick%20Start%20Guide.pdf)
 - [Cooler Master Troubleshooting Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Cooler%20Master%20Troubleshooting%20Guide.pdf)
+- [User Guide for DC-ROMA RISC-V Mainboard I with Cooler Maste Case](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/User%20Guide%20for%20DC-ROMA%20RISC-V%20Mainboard%20I%20with%20Cooler%20Maste%20Case.pdf)
 - [Framework Laptop 13 Troubleshooting Procedure Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Framework%20Laptop%2013%20Troubleshooting%20Procedure%20Guide.pdf)
 - [Debug Expansion Card (UART_EC-S_USB-C) Product Manual](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Debug%20Expansion%20Card%20(UART_EC-S_USB-C)%20Product%20Manual.pdf)
 - [How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/How%20to%20Replace%20the%20Kernel%20with%20DC-Linux%20on%20DC-ROMA%20RISC-V%20Mainboard%20for%20Framework%20Laptop%2013.pdf)

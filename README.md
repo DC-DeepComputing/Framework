@@ -2,12 +2,40 @@
 This repository mainly contains technical documentation and manuals for the Framework RISC-V mainboard.
 
 ## Release notes
-
-|     Version         |   Status      |  Latest Release      |   Release Date  |  Notes |
-|---------------|---------------------------|---------------------------|----------------|----------------|
-| FML13V03  | Coming Soon       |  Coming Soon     |  Coming Soon    |     DC-ROMA RISC-V Mainboard Gen II for Framework（DC-ROMA RISC-V AI PC）      |
-| FML13V01      | `Maintenance`             |  [V1.1](https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1)    |  2025-2-17    |   DC-ROMA RISC-V Mainboard  I for Framework Laptop 13           |
-
+<table>
+<thead>
+  <tr>
+    <th>Version</th>
+    <th>Status</th>
+    <th>Latest Release</th>
+    <th>Release Date</th>
+    <th>Notes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>FML13V03</td>
+    <td>Coming Soon</td>
+    <td>Coming Soon</td>
+    <td>Coming Soon</td>
+    <td>DC-ROMA RISC-V Mainboard Gen II for Framework（DC-ROMA RISC-V AI PC）</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="2">FML13V01</td>
+    <td><code>Maintenance</code></td>
+    <td><a href="https://canonical-ubuntu-boards.readthedocs-hosted.com/en/latest/how-to/deepcomputing-fml13v01/#install-ubuntu-on-the-deepcomputing-fml13v01">Ubuntu Server 25.04</a></td> 
+    <td>2025-5-20</td>
+    <td>Install Ubuntu Server on the DC-ROMA RISC-V Mainboard I for Framework Laptop 13</td>
+  </tr>
+  <tr>
+    <td><code>Maintenance</code></td>
+    <td><a href="https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1">V1.1-release</a></td> 
+    <td>2025-2-17</td>
+    <td>DC-ROMA RISC-V Mainboard I for Framework Laptop 13</td>
+  </tr>
+</tbody>
+</table>
 
 ## [FML13V03 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FWL13V03)
 Coming Soon！！！

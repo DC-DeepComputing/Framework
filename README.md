@@ -31,7 +31,7 @@ This repository mainly contains technical documentation and manuals for the Fram
   <tr>
     <td><code>Maintenance</code></td>
     <td><a href="https://github.com/DC-DeepComputing/fml13v01/releases">v1.2-release</a></td> 
-    <td>2025-2-17</td>
+    <td>2025-6-20</td>
     <td>DC-ROMA RISC-V Mainboard I for Framework Laptop 13</td>
   </tr>
 </tbody>

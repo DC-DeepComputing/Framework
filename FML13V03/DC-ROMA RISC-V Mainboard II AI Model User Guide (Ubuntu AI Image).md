@@ -79,7 +79,7 @@ sudo /usr/bin/whisper-cli -f /opt/eswin/data/npu/whisper_models/audio/jfk.wav
 env set stdout serial 
 
 # Permanently change MMZ size (11GB example)
-setenv fdt_cmd "fdt mmz mmz_nid_0_part_0 0x1c0000000 0x2c0000000"
+setenv fdt_cmd "fdt mmz mmz_nid_0_part_0 0x1c0000000 0x5c0000000"  
 setenv bootcmd "run fdt_cmd;${bootcmd}"
 saveenv
 

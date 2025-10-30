@@ -38,9 +38,15 @@ This repository mainly contains technical documentation and manuals for the Fram
 </table>
 
 ## [FML13V03 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FWL13V03)
+
 Some Technical Documents: Click filenames to navigate to their locations.
+
 - [Debug Expansion Card (UART_EC-S_USB-C) Product Manual](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/Debug%20Expansion%20Card%20(UART_EC-S_USB-C)%20Product%20Manual.pdf)
+
 - [DC-ROMA RISC-V Mainboard II AI Model User Guide (Ubuntu AI Image)](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/DC-ROMA%20RISC-V%20Mainboard%20II%20AI%20Model%20User%20Guide%20(Ubuntu%20AI%20Image).pdf)
+
+- [Getting Started with KVM Virtualization on the DC-ROMA RISC-V AI PC](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/Getting%20Started%20with%20KVM%20Virtualization%20on%20the%20DC-ROMA%20RISC-V%20AI%20PC.md)
+
 ## [FML13V01](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V01) 
 Some Technical Documents: Click filenames to navigate to their locations.
 - [Ubuntu System Installation Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)

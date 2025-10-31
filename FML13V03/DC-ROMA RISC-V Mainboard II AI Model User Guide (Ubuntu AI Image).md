@@ -25,7 +25,8 @@ saveenv
 #Reboot System:
 boot
 ```
-
+- For more detailed instructions, please refer to:[DC-ROMA RISC-V AI PC, RISC-V Mainboard II NPU Memory Adjustment Instructions](
+https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/DC-ROMA%20RISC-V%20AI%20PC%2C%20RISC-V%20Mainboard%20II%20NPU%20Memory%20Adjustment%20Instructions.md)
 
 ## Ollama Containerized Deepseek-R1-7B Usage Guide
 The AI PC comes pre-installed with a containerized local DeepSeek 7B model via Ollama and includes a startup script. Simply run the script to use the model. For an enhanced experience, a visual frontend is included.

@@ -89,7 +89,7 @@ saveenv
 ```
 
 
-## For **64GiB DC-ROMA AI PC (RISC-V Mainboard II for Framework Laptop)** 
+### For **64GiB DC-ROMA AI PC (RISC-V Mainboard II for Framework Laptop)** 
 
 1. **U-Boot Configuration**
 

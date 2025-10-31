@@ -3,6 +3,28 @@
 This document applies to users of the factory-installed image system or those who download the image from:
 http://120.92.155.32:8082/artifactory/virtOS/fml13v03-eswin/15019-ubuntu-24.04-desktop-grub-sdcard-AI.zip
 
+## Note:
+- Adjust the MMZ size first in U-Boot:
+
+- Entering U-Boot:
+  - Connect the AI PC via a serial port.
+  - During power-on startup, repeatedly press Enter to access U-Boot.
+
+
+- Modify Environment Variables:
+
+```
+# Configure env to output only to serial port 
+env set stdout serial 
+
+# Permanently change MMZ size (11GB example)
+setenv fdt_cmd "fdt mmz mmz_nid_0_part_0 0x1c0000000 0x2c0000000"    #die0
+setenv bootcmd "run fdt_cmd;${bootcmd}"
+saveenv
+
+#Reboot System:
+boot
+```
 
 
 ## Ollama Containerized Deepseek-R1-7B Usage Guide
@@ -64,28 +86,7 @@ sudo /usr/bin/whisper-cli -f /opt/eswin/data/npu/whisper_models/audio/jfk.wav
 
 
 
-## Note:
-- If an "Insufficient Memory" error occurs when running AI models, adjust the MMZ size first in U-Boot:
 
-- Entering U-Boot:
-  - Connect the AI PC via a serial port.
-  - During power-on startup, repeatedly press Enter to access U-Boot.
-
-
-- Modify Environment Variables:
-
-```
-# Configure env to output only to serial port 
-env set stdout serial 
-
-# Permanently change MMZ size (11GB example)
-setenv fdt_cmd "fdt mmz mmz_nid_0_part_0 0x1c0000000 0x2c0000000"  
-setenv bootcmd "run fdt_cmd;${bootcmd}"
-saveenv
-
-#Reboot System:
-boot
-```
 
 
 

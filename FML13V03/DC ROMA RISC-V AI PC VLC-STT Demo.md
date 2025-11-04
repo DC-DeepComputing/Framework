@@ -1,3 +1,5 @@
+# DC ROMA RISC-V AI PC VLC-STT Demo
+
 ## 1. Preparing NPU Execution Environment
 
 Complete ESWIN's whisper library setup and NPU initialization:

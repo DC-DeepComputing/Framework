@@ -51,6 +51,8 @@ Some Technical Documents: Click filenames to navigate to their locations.
 
 - [Getting Started with KVM Virtualization on the DC-ROMA RISC-V AI PC](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/Getting%20Started%20with%20KVM%20Virtualization%20on%20the%20DC-ROMA%20RISC-V%20AI%20PC.md)
 
+- [How to Install an Image System on an SSD (e.g. Ubuntu)](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/How%20to%20Install%20an%20Image%20System%20on%20an%20SSD%20(e.g.%20Ubuntu).pdf)
+
 
 ## [FML13V01](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V01) 
 Some Technical Documents: Click filenames to navigate to their locations.

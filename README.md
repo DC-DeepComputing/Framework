@@ -15,9 +15,9 @@ This repository mainly contains technical documentation and manuals for the Fram
 <tbody>
   <tr>
     <td>FML13V03</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
+    <td><code>Active</code></td>
+    <td><a href="https://github.com/DC-DeepComputing/fml13v03/releases/tag/V1.0">v1.0-release</td>
+    <td>2025-11-10</td>
     <td>DC-ROMA RISC-V Mainboard Gen II for Framework（DC-ROMA RISC-V AI PC）</td>
   </tr>
   

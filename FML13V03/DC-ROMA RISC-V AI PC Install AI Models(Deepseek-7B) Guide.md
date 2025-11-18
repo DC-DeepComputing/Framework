@@ -191,7 +191,7 @@ https://drive.google.com/file/d/1IgUolyQyj5j4t2EWMy2_U-aik336JV-W/view?usp=shari
 chmod 777 aichat-deepseek7b-English.html
 ```
 
-**5. Configure and Edit Startup Script for Ollama Server
+**5. Configure and Edit Startup Script for Ollama Server**
 ```
 vim start-server.sh
 

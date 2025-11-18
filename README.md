@@ -55,6 +55,7 @@ Some Technical Documents: Click filenames to navigate to their locations.
 
 - [DC ROMA RISC-V AI PC VLC-STT Demo](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/DC%20ROMA%20RISC-V%20AI%20PC%20VLC-STT%20Demo.md)
 
+- [DC-ROMA RISC-V AI PC Install AI Models(Deepseek-7B) Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V03/DC-ROMA%20RISC-V%20AI%20PC%20Install%20AI%20Models(Deepseek-7B)%20Guide.md)
 
 ## [FML13V01](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V01) 
 Some Technical Documents: Click filenames to navigate to their locations.

@@ -37,7 +37,7 @@ This repository mainly contains technical documentation and manuals for the Fram
 </tbody>
 </table>
 
-## [FML13V03 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FWL13V03)
+## [FML13V03 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V03)
 
 Some Technical Documents: Click filenames to navigate to their locations.
 

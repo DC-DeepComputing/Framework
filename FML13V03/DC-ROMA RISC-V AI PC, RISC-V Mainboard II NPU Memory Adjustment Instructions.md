@@ -3,7 +3,7 @@
  
 System Declaration 
 - Default NPU memory allocation is **6GiB**, which is insufficient for running **Deepseek-7B** on a single Die.  
-- Requires expansion to **≥11GiB** to run Deepseek-7B.
+- Requires must be expanded to **≥11GiB** to run Deepseek-7B.
 
 - Kernel Memory Allocation Logs
 ```

@@ -3,7 +3,7 @@ Docker is an open-source containerization platform built on Linux kernel technol
 ## Host Machine Configuration
 (Refer to attached image)
 - Note: The host system details (e.g., CPU, memory, OS) are visible in the provided screenshot, which shows a Linux environment prepared for Docker deployment.
-- This demo is running on DC ROMA RISC-V AI PC ,RISC-V Mainboard II device. The OS version is Ubuntu 24.04.
+- This demo is running on DC-ROMA RISC-V AI PC ,RISC-V Mainboard II device. The OS version is Ubuntu 24.04.
 <img width="1280" height="611" alt="image" src="https://github.com/user-attachments/assets/9147da1a-715d-44d4-97d8-3a17a5bd95eb" />
 
 

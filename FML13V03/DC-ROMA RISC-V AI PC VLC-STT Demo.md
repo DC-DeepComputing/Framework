@@ -1,4 +1,4 @@
-# DC ROMA RISC-V AI PC VLC-STT Demo
+# DC-ROMA RISC-V AI PC VLC-STT Demo
 
 ## 1. Preparing NPU Execution Environment
 

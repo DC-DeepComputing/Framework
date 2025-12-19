@@ -186,8 +186,7 @@ rm -rf es-ollama_1.0.0_riscv64.deb
 cd /home/roma/
 
 # Google Drive
-https://drive.google.com/file/d/1IgUolyQyj5j4t2EWMy2_U-aik336JV-W/view?usp=sharing
-
+https://drive.google.com/file/d/17qfTiLUjSSurbyOMW0Wv_iSODDuRfBer/view?usp=sharing
 chmod 777 aichat-deepseek7b-English.html
 ```
 

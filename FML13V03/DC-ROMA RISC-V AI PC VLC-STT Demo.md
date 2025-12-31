@@ -94,25 +94,20 @@ cat /home/eswin/OLLAMA_README.md   # Documentation
 
 **5）Download qwen2 0.5B model**
 ```
-sudo apt-get install git-lfs 
+#Google Drive
+https://drive.google.com/file/d/1cS5cwGHec4t5QO7iQM81IQ86ixALknC0/view?usp=sharing
 
-cd $HOME
-
-git clone "http://82.157.114.25:8080/eswin/es-model-zoo"
-
-cd es-model-zoo  
-
-git lfs pull --include="llm/es-hw-models/qwen2/models/qwen2_0_5b_1k_int8" --exclude=""  
-# es-model-zoo/llm/es-hw-models/qwen2/models/qwen2_0_5b_1k_int8
+tar -xvf Qwen2_0.5B.tar
 
 ## Copy model to OLLAMA directory 
 sudo mkdir -p /opt/eswin/sample-code/npu_sample/qwen_sample/models/
-sudo cp -r llm/es-hw-models/qwen2/models/qwen2_0_5b_1k_int8 /opt/eswin/sample-code/npu_sample/qwen_sample/models
+sudo cp -r Qwen2_0.5B/qwen2_0_5b_1k_int8 /opt/eswin/sample-code/npu_sample/qwen_sample/models
 
 # Verify model copy 
 ls /opt/eswin/sample-code/npu_sample/qwen_sample/models
 
 # Expected: qwen2_0_5b_1k_int8/
+
 ```
 
 **6）Start ollama service (run in background)**

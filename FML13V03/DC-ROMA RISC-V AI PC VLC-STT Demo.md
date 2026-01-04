@@ -95,13 +95,12 @@ cat /home/eswin/OLLAMA_README.md   # Documentation
 **5）Download qwen2 0.5B model**
 ```
 #Google Drive
-https://drive.google.com/file/d/1cS5cwGHec4t5QO7iQM81IQ86ixALknC0/view?usp=sharing
-
+https://drive.google.com/file/d/1pIjSrHdqMLO8bB7J14CDFyDo2i8BJQ1l/view?usp=sharing
 tar -xvf Qwen2_0.5B.tar
 
 ## Copy model to OLLAMA directory 
 sudo mkdir -p /opt/eswin/sample-code/npu_sample/qwen_sample/models/
-sudo cp -r Qwen2_0.5B/qwen2_0_5b_1k_int8 /opt/eswin/sample-code/npu_sample/qwen_sample/models
+sudo cp -r qwen2_0_5b_1k_int8 /opt/eswin/sample-code/npu_sample/qwen_sample/models
 
 # Verify model copy 
 ls /opt/eswin/sample-code/npu_sample/qwen_sample/models
@@ -138,7 +137,7 @@ curl http://localhost:11434/api/chat -d '{
   "stream":  false
 }'
 
-
+# Expected：
 {"model":"my-qwen2","created_at":"2025-11-03T08:26:16.634962305Z","message":
 {"role":"assistant","content":"\nThe weather is quite nice today."},"done_reason":"stop","done":true,"total_duration":13806745433,"load_duration":4637933382,"prompt             _eval_count":36,"prompt_eval_duration":8919248923,"eval_count":9,"eval_duration"             :233289989}⏎   
 ```

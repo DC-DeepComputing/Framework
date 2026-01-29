@@ -23,7 +23,7 @@ sudo adduser $USER libvirt
 sudo adduser $USER kvm
 ```
 - RISC-V platform EDK2 boot tools:
- 👉 https://github.com/DC-Yanwei/RISC-V-Development-Tools.git
+ 👉 https://github.com/Mr-Yanwei/RISC-V-Development-Tools.git
 
  ## Running Ubuntu 24.04 Server via QEMU Virtualization
  

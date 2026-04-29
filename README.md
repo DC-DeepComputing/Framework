@@ -13,12 +13,21 @@ This repository mainly contains technical documentation and manuals for the Fram
   </tr>
 </thead>
 <tbody>
+
+<tr>
+    <td>FML13V05</td>
+    <td><code>TBD</code></td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>DC-ROMA RISC-V Mainboard  III for Framework（K3）</td>
+  </tr>
+  
   <tr>
     <td>FML13V03</td>
     <td><code>Active</code></td>
     <td><a href="https://github.com/DC-DeepComputing/fml13v03/releases/tag/V1.0">v1.0-release</td>
     <td>2025-11-10</td>
-    <td>DC-ROMA RISC-V Mainboard Gen II for Framework（DC-ROMA RISC-V AI PC）</td>
+    <td>DC-ROMA RISC-V Mainboard II for Framework（DC-ROMA RISC-V AI PC）</td>
   </tr>
   
   <tr>
@@ -37,7 +46,10 @@ This repository mainly contains technical documentation and manuals for the Fram
 </tbody>
 </table>
 
-## [FML13V03 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V03)
+## [FML13V05 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V05)
+coming soon!
+
+## [FML13V03 ](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V03)
 
 Some Technical Documents: Click filenames to navigate to their locations.
 

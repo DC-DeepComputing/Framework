@@ -47,7 +47,16 @@ This repository mainly contains technical documentation and manuals for the Fram
 </table>
 
 ## [FML13V05 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V05)
-coming soon!
+Some Technical Documents: Click filenames to navigate to their locations.
+- [DC-ROMA RISC-V Mainboard III EC Upgrade Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V05/DC-ROMA%20RISC-V%20Mainboard%20III%20EC%20Upgrade%20Guide.pdf)
+
+- [How to Install an Image System on an SSD (e.g. Ubuntu)](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V05/How%20to%20Install%20an%20Image%20System%20on%20an%20SSD%20(e.g.%20Ubuntu).pdf)
+  
+- [Use the Titanflasher tool to flash the SSD image onto the DC-ROMA RISC-V Mainboard III](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V05/Use%20the%20Titanflasher%20tool%20to%20flash%20the%20SSD%20image%20onto%20the%20DC-ROMA%20RISC-V%20Mainboard%20III.pdf)
+
+
+
+
 
 ## [FML13V03 ](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V03)
 

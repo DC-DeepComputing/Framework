@@ -85,7 +85,6 @@ node --expose-internals $(which dsh) web
 ```
 ⚠️ Note: Running dsh web directly may cause errors; you must add the --expose-internals parameter.
 After successful startup, dsh will provide Web UI at 127.0.0.1:3080. Then open in browser: http://127.0.0.1:3080
-<img width="2256" height="1504" alt="截图 2026-09-16 18-01-48" src="https://github.com/user-attachments/assets/1a961ee7-1675-433d-9845-673b0b4cedeb" />
 <img width="1674" height="945" alt="image" src="https://github.com/user-attachments/assets/010cc029-24b0-4d82-a3a2-ddc8c13f7d30" />
 
 - Configure the API and model in settings, and you can start using DeepSeek Harness
@@ -139,7 +138,7 @@ However, this method downloads the package each time, resulting in slower startu
 ### Missing Dependencies Issue
 - The issue of "Upper-layer Node.js software supports RISC-V, but the underlying pre-compiled native addons do not have RISC-V packages".
 - Official RISC-V dependencies are not provided; you need to manually compile the dependency packages.
-- Dependency packages:https://drive.google.com/file/d/1ZrdfFuzCpV-enImPYc02f2MFLq9jUWKe/view?usp=sharing
+- Dependency packages: https://drive.google.com/file/d/1ZrdfFuzCpV-enImPYc02f2MFLq9jUWKe/view?usp=sharing
 
 #### Extract and Install Dependency Packages
 
